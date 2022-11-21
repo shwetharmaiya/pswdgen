@@ -75,3 +75,9 @@ input[type=checkbox] {
 	align-items: center;
     margin-right: 15px 0;
 }
+
+@media screen and (max-width: 400px) {
+	.result-container {
+		font-size: 14px;
+	}
+}
